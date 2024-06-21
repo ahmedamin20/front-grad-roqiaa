@@ -1,0 +1,46 @@
+li{
+    list-style: none;
+  }
+  a{
+    text-decoration: none;
+    color: unset;
+  }
+  .w-28{
+    width: 20%;
+  }
+  .w-85{
+    width: 75%;
+  }
+  .w-40{
+    width: 30%;
+  }
+  .main-color{
+    color: #004ecc;
+  }
+  hr{
+    color: rgb(156, 156, 156);
+    opacity: 1;
+  }
+                                       /* fonts */
+  .exo{
+    font-family: 'Exo', sans-serif;
+  }
+  .sans-serif{
+    font-family: sans-serif;
+  }
+  .roboto{
+    font-family: 'Roboto', sans-serif;
+  }
+  .space-grotesk{
+    font-family: 'Space Grotesk', sans-serif;
+  }
+  .koho{
+    font-family: 'KoHo', sans-serif;
+  }
+  
+.home{
+    height: 88vh;
+}
+.home .empty-space{
+    height: 15vh;
+}

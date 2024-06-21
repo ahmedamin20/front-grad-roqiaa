@@ -1,0 +1,14 @@
+.result {
+  width: 60%;
+  margin: 10% auto;
+  /* min-height: 90vh; */
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  align-items: center;
+  width: 100%;
+  border-left: solid 4px blue;
+  margin-bottom: 30px;
+}
+

@@ -1,0 +1,17 @@
+.logoo {
+    width: 5% !important;
+    margin-left: 7%;
+}
+.navbar-toggler{
+    margin-right: 7%;
+}
+
+.navbar{
+    height: 12vh;
+    background-color: #fafafa;
+    box-shadow: 0px -10px 10px 10px rgba(0, 0, 0, 0.6);
+}
+.offcanvas {
+    background-color: #fafafa;
+    border: solid 3px blue;
+}

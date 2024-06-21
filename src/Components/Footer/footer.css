@@ -1,0 +1,10 @@
+footer{
+    height: 10vh;
+    border-top: 1px solid;
+    border-color: rgb(156, 156, 156);
+    background-color: #fafafa;
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}

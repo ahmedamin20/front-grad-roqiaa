@@ -1,0 +1,25 @@
+.hRegister{
+    min-height: 86.5vh;
+
+}
+.login{
+margin-top: 18vh;
+}
+.or::before{
+    content: '';
+    position: absolute;
+    left: 0px;
+    background-color: #6C757D;
+    width: 47%;
+    height: 1px;
+    top: 12px;
+}
+.or::after{
+    content: '';
+    position: absolute;
+    right: 0px;
+    background-color: #6C757D;
+    width: 47%;
+    height: 1px;
+    top: 12px;
+}

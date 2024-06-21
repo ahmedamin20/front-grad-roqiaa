@@ -1,0 +1,18 @@
+/* src/About.css */
+.about-container {
+    width: 50%;
+    margin: 18vh auto ;
+    font-family: Arial, sans-serif;
+    color: #333;
+    justify-content: center;
+    text-align: center;
+    
+}
+.videoo{
+    border-radius: 5%;
+}
+
+
+.about-container p{
+    padding-top: 3%;
+}
